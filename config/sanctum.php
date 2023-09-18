@@ -46,7 +46,7 @@ return [
     |
     */
 
-    'expiration' => null,
+    'expiration' => 43200, //si lo dejamos en null significa que no expira
 
     /*
     |--------------------------------------------------------------------------
